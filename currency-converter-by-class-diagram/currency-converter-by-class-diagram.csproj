@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="CryptoConverter.cs" />
     <Compile Include="Currency.cs" />
+    <Compile Include="Exchange.cs" />
     <Compile Include="FiatConverter.cs" />
     <Compile Include="ICurrencyConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
