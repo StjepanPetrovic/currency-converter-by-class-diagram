@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CryptoConverter.cs" />
     <Compile Include="Currency.cs" />
+    <Compile Include="FiatConverter.cs" />
     <Compile Include="ICurrencyConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
